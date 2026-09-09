@@ -1,0 +1,42 @@
+CSS
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Segoe UI", Roboto, sans-serif;
+  margin: 0;
+  background: #ededed;
+  color: #ffffff;
+}
+header {
+  background: linear-gradient(120deg, #ed0606, #005eff);
+  color: #fff;
+  padding: 60px 20px;
+  text-align: center;
+}
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+section {
+  background: #242424;
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+  
+}
+section h2 {
+  margin-top: 0;
+  color: #ffffff;
+}
+footer {
+  padding: 24px;
+  text-align: center;
+  background: #ffffff;
+  font-size: 0.9rem;
+}
+
+
+
