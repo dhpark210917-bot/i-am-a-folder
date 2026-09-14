@@ -30,13 +30,21 @@ section {
 section h2 {
   margin-top: 0;
   color: #ffffff;
+  text-color: hsl(281, 94%, 60%);
+}
+
+a {
+  color: #bc12ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  text-color: #f9eeff;
 }
 footer {
   padding: 24px;
   text-align: center;
+  color:#000000;
   background: #ffffff;
   font-size: 0.9rem;
 }
-
-
-
